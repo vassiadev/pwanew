@@ -1,0 +1,29 @@
+{
+    "title": "Vassia",
+    "description": "art",
+    "pages": {
+        "index": {
+            "components": [
+                {
+                    "name": "Header",
+                    "params": {
+                        "left": "Navmenu",
+                        "right": "Buttons"
+                    }
+                },
+                {
+                    "name": "Cards",
+                    "settings": {
+                        "data": "/projects.json",
+                        "json": true,
+                        "card": {
+                            "label": "title",
+                            "description": "description",
+                            "preview": "preview"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

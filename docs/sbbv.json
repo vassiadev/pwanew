@@ -1,0 +1,23 @@
+{
+    "title": "SBBV",
+    "description": "Saint-Brevin-Les-Pins",
+    "pages": {
+        "index": {
+            "components": [
+                {
+                    "name": "Header",
+                    "params": {
+                        "left": "Navmenu",
+                        "right": "Buttons"
+                    }
+                },
+                {
+                    "name": "Cards",
+                    "settings": {
+                        "data": "/cards.json"
+                    }
+                }
+            ]
+        }
+    }
+}
