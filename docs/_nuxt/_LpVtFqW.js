@@ -1,1 +1,0 @@
-import{r as o,o as n,v as e,y as t,t as r}from"./BpL2NDGi.js";const p={__name:"pwa",setup(s){const a=o("");return n(()=>{a.value=window.location.origin}),(c,l)=>(r(),e("span",null,t(a.value),1))}};export{p as default};
