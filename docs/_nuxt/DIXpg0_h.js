@@ -1,1 +1,0 @@
-import{t as e,v as s}from"./ah3Vr_zj.js";const c=["src"],i={__name:"Picture",props:["settings","api"],setup(t){return(r,n)=>(e(),s("img",{src:t.api+"/"+t.settings.src},null,8,c))}};export{i as default};
