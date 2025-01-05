@@ -1,0 +1,1 @@
+import{_ as s,t as c,v as o,x as e}from"./ah3Vr_zj.js";const t={},a={class:"d-flex flex-row jcb aic shadow",style:{"z-index":"1"}},n=e("div",{class:"d-flex flex-row py-3 px-3"},[e("span",null,"Sergei Vasilev")],-1),r=[n];function _(d,l){return c(),o("div",a,r)}const f=s(t,[["render",_]]);export{f as default};

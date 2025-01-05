@@ -1,0 +1,61 @@
+[
+    {
+        "id": "project1",
+        "title": "Santa Brevina Beach Volley",
+        "description": "2sss",
+        "preview": "project1case1",
+        "cases": [
+            {
+                "id": "project1case1",
+                "title": "Design Logo",
+                "tags": ["logo design"],
+                "component": {
+                    "name": "Picture",
+                    "settings": {
+                        "src": "/cases/project1case1/1.jpg"
+                    }   
+                }
+            }
+        ]
+    },
+    {
+        "id": "project2",
+        "title": "Atelier Velo 44",
+        "description": "2sss",
+        "preview": "project2case1",
+        "cases": [
+            {
+                "id": "project2case1",
+                "title": "Design Logo",
+                "tags": ["logo design"],
+                "component": {
+                    "name": "Picture",
+                    "settings": {
+                        "src": "/cases/project2case1/1.jpg"
+                    }   
+                }
+            }
+            
+        ]
+    },
+    {
+        "id": "project3",
+        "title": "Suomen Ranta",
+        "description": "2sss",
+        "preview": "project3case1",
+        "cases": [
+            {
+                "id": "project3case1",
+                "title": "3D Top View",
+                "tags": ["logo design"],
+                "component": {
+                    "name": "BeforeAfter",
+                    "settings": {
+                        "images": ["/cases/project3case1/ba1_1.jpg", "/cases/project3case1/ba1_2.jpg"]
+                    }   
+                }
+            }
+            
+        ]
+    }
+]
